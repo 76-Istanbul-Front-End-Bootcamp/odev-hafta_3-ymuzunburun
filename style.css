@@ -1,0 +1,19 @@
+tbody tr:hover {
+    background-color:green;
+    color:white;
+}
+
+#context{
+    width: 600px;
+    height: 300px;
+    padding: 20px;
+    position: relative;
+    margin: auto;
+
+}
+
+#imgAnimal{
+    display:none;
+    width:500px ;
+    height:500px;
+}
